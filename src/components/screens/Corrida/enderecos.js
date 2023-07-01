@@ -1,0 +1,123 @@
+export const addresses = [
+  {
+    id: 1,
+    name: 'Av. Comandante Valódia, Ingombota, Luanda, Angola',
+    latitude: -8.813748,
+    longitude: 13.235227,
+  },
+  {
+    id: 2,
+    name: 'Rua Amílcar Cabral, Maianga, Luanda, Angola',
+    latitude: -8.820529,
+    longitude: 13.240989,
+  },
+  {
+    id: 3,
+    name: 'Av. Ho Chi Minh, Sambizanga, Luanda, Angola',
+    latitude: -8.825861,
+    longitude: 13.249662,
+  },
+  {
+    id: 4,
+    name: 'Av. Pedro de Castro Van-Dunem Loy, Kilamba Kiaxi, Luanda, Angola',
+    latitude: -8.917652,
+    longitude: 13.191667,
+  },
+  {
+    id: 5,
+    name: 'Av. Fidel Castro, Rangel, Luanda, Angola',
+    latitude: -8.824252,
+    longitude: 13.258141,
+  },
+  {
+    id: 6,
+    name: 'Rua do Matadouro, Cazenga, Luanda, Angola',
+    latitude: -8.84833,
+    longitude: 13.278776,
+  },
+  {
+    id: 7,
+    name: 'Rua do Cemit, Viana, Luanda, Angola',
+    latitude: -8.836603,
+    longitude: 13.337658,
+  },
+  {
+    id: 8,
+    name: 'Av. 21 de Janeiro, Cacuaco, Luanda, Angola',
+    latitude: -8.762312,
+    longitude: 13.213131,
+  },
+  {
+    id: 9,
+    name: 'Av. Deolinda Rodrigues, Kilamba, Luanda, Angola',
+    latitude: -8.924703,
+    longitude: 13.208703,
+  },
+  {
+    id: 10,
+    name: 'Av. 1º de Maio, Talatona, Luanda, Angola',
+    latitude: -8.951829,
+    longitude: 13.176622,
+  },
+  // Mais 10 exemplos:
+  {
+    id: 11,
+    name: 'Rua Rei Katyavala, Maculusso, Luanda, Angola',
+    latitude: -8.8205,
+    longitude: 13.243701,
+  },
+  {
+    id: 12,
+    name: 'Rua Comandante Arguelles, Alvalade, Luanda, Angola',
+    latitude: -8.833498,
+    longitude: 13.244426,
+  },
+  {
+    id: 13,
+    name: 'Rua Direita da Samba, Samba, Luanda, Angola',
+    latitude: -8.836768,
+    longitude: 13.225935,
+  },
+  {
+    id: 14,
+    name: 'Rua do Centro Materno Infantil, Ngola Kiluange, Luanda, Angola',
+    latitude: -8.877833,
+    longitude: 13.268481,
+  },
+  {
+    id: 15,
+    name: 'Av. Comandante Jika, Marçal, Luanda, Angola',
+    latitude: -8.824605,
+    longitude: 13.262187,
+  },
+  {
+    id: 16,
+    name: 'Rua do SIC, Bairro Operário, Luanda, Angola',
+    latitude: -8.827687,
+    longitude: 13.243834,
+  },
+  {
+    id: 17,
+    name: 'Rua Doutor José Pereira do Nascimento, Golfe, Luanda, Angola',
+    latitude: -8.923607,
+    longitude: 13.172785,
+  },
+  {
+    id: 18,
+    name: 'Av. Comandante Che Guevara, Nova Vida, Luanda, Angola',
+    latitude: -8.877748,
+    longitude: 13.296397,
+  },
+  {
+    id: 19,
+    name: 'Rua Pedro Félix Machado, Miramar, Luanda, Angola',
+    latitude: -8.814541,
+    longitude: 13.226418,
+  },
+  {
+    id: 20,
+    name: 'Rua Albano Machado, Bairro Azul, Luanda, Angola',
+    latitude: -8.816098,
+    longitude: 13.240265,
+  },
+];

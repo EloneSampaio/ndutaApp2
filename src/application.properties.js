@@ -1,0 +1,16 @@
+export const ApplicationProperties = {
+  emailDomain: '',
+  baseUrl: 'http://65.108.158.105/api/v1',
+  register: '/register',
+  updateUserInfo: '/user/updateUserInfo/{id}',
+  verificarNumeroTelefone: '/user/${phone}/exist',
+  consumerKey: '',
+  consumerSecret: '',
+  oneSignalId: '',
+  appVerificationDisabledForTesting: true,
+  apiKey: '5b3ce3597851110001cf6248b3df0fbd33ca4082aa34c08ca950c0ff',
+  Url: '65.108.158.105',
+  UrlAuth: 'http://65.108.158.105/broadcasting/auth',
+  APP_PUSHER_APP_KEY: 'meukey',
+  pusherCluster: 'mt1',
+};

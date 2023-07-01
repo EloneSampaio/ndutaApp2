@@ -1,0 +1,5 @@
+# Definindo o tamanho da tabulação como 2 espaços
+tab_width = 2
+
+# Usando espaços em vez de tabulação
+indent_style = space
